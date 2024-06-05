@@ -9,5 +9,7 @@ i. Birth: If exactly three of its neighbors are alive, the cell will become aliv
 If the cell is already alive:
 
 ii. Survival: If the cell has two or three live neighbors, the cell remains alive. Otherwise, it will die.
+
 iii. Death by loneliness: If the cell has only zero or one live neighbors, the cell will become dead.
+
 iv. Death by overcrowding: If the cell is alive and has more than three live neighbors, the cell dies.
