@@ -1,6 +1,7 @@
 # Game-of-Life
 ## Introduction
 In game of Life there are no players and there’s no way to win or lose the game. Life takes place on a two-dimensional grid of square cells. Each square cell can be either alive (1) or dead (0) depending on the state of their neighbors.
+
 Rules of this game:
 
 If the cell is dead:
